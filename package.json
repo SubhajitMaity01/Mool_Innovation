@@ -1,0 +1,17 @@
+{
+  "name": "assesment4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subhajit Maity",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.4.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
